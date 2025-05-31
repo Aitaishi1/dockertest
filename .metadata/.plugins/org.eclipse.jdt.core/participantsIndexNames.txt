@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+/home/dev/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3891301586.index
+/mvc-test-32222/src/main/java
+/home/dev/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3008517867.index
+/webapp2-32222/src/main/java
+/home/dev/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2807949592.index
+/webapp-32222/src/main/java
